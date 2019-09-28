@@ -1,0 +1,16 @@
+SEA - Sistema Estatistico Avancado
+
+    Desenvolvedores: Andre Sousa            Versoes-> |1.0 Beta   - 08/09/2007
+	             Cleber Luis                      |1.1 Beta   - 25/09/2007
+                     Igor Rafael                      |1.2 Beta   - 19/10/2007
+                     Richard Nascimento               |1.21 Beta  - 29/10/2007 
+                     Rodrigo Santana                  |1.22       - 15/11/2007
+                     Valnei Oliveira                  |1.23 FINAL - 19/11/2007
+ 				                      |
+           
+                              
+
+   Versao 1.23 FINAL
+
+   
+   Ravric Solutions.
